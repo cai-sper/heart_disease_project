@@ -1,4 +1,4 @@
-# heart_disease_project
+# Heart Disease Risk Factors
 
 Team members: Adora, Arun, Cailin, Prachi
 
