@@ -4,6 +4,8 @@ Team members: Adora, Arun, Cailin, Prachi
 
 ### RISK FACTOR ANALYSIS FOR HEART DISEASE USING AGE AND ALCOHOL VARIABLES
 
+Our group asked the question: what risk factors contribute to heart disease? We analyzed the following 7 risk factors to determine if they have a correlation to heart disease: age, alcohol use, BMI, smoking, sex, sleep time, and physical activity. 
+
 According to CDC, heart disease is one of the leading causes of death and about half of Americans have at least one risk factor. This dataset of 400k people was analysed to determine the risk factors of heart disease and its impact. People of all ages ranging from 18 to 80 years or above participated and were asked questions.
 
 - It was observed from this dataset that about 8.6% people have heart disease such as Coronary heart disease (CHD) or myocardial infarction (MI) and the majority of them were aged 50 or above. Heart disease and age has positive correlation. As the age increases, the risk of heart disease increases.
