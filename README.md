@@ -4,7 +4,7 @@ Team members: Adora, Arun, Cailin, Prachi
 
 ### RISK FACTOR ANALYSIS FOR HEART DISEASE USING AGE AND ALCOHOL VARIABLES
 
-According to  WHO, heart disease is the leading cause of death in the world. This dataset of 400k people was analysed to determine the risk factors of heart disease and its impact. People of all ages ranging from 18 to 80 years or above participated and were asked questions.
+According to the World Health Organization, heart disease is the leading cause of death in the world. This dataset of 400k people was analysed to determine the risk factors of heart disease and its impact. People of all ages ranging from 18 to 80 years or above participated and were asked questions.
 
 Our group asked the question: what risk factors contribute to heart disease? We analyzed the following 7 risk factors to determine if they have a correlation to heart disease: age, alcohol use, BMI, smoking, sex, sleep time, and physical activity. 
 
