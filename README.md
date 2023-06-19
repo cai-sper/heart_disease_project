@@ -1,8 +1,7 @@
-# Heart Disease Risk Factors
+# RISK FACTOR ANALYSIS FOR HEART DISEASE
 
-Team members: Adora, Arun, Cailin, Prachi
+## Team members: Adora, Arun, Cailin, Prachi
 
-### RISK FACTOR ANALYSIS FOR HEART DISEASE USING AGE AND ALCOHOL VARIABLES
 
 According to the World Health Organization, heart disease is the leading cause of death in the world. This dataset of 400k people was analysed to determine the risk factors of heart disease and its impact. People of all ages ranging from 18 to 80 years or above participated and were asked questions.
 
